@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Dr. Kim Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Active Learning Lab of Quantitative Psychology."
 sitemap: false
 permalink: /
 ---
