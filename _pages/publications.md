@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list), Dr. Kim's [CV](/docs/KimW_CV_Dec2017.pdf), or his [Google Scholar](https://scholar.google.com/citations?user=NTYc27IAAAAJ&hl=en) page)
+(For a full list see [below](#full-list), Dr. Kim's [CV](/doc-files/KimW_CV_Dec2017.pdf), or his [Google Scholar](https://scholar.google.com/citations?user=NTYc27IAAAAJ&hl=en) page)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
