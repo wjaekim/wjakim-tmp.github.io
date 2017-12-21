@@ -44,4 +44,5 @@ kramdown:
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
 # Jekyll SEO
-
+plugins:
+  - jekyll-seo-tag
