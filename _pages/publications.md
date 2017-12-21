@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Active Learning Lab of Quant Psych - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Active Learning Lab of Quant Psych -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list), Dr. Kim's [CV](/docs/KimW_CV_Dec2017.pdf), or his [Google Scholar](https://scholar.google.com/citations?user=NTYc27IAAAAJ&hl=en) page)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -26,9 +26,9 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
+  <p><em>{{ publi.authors }}</em></p>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
@@ -51,13 +51,13 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
 ## Full List
 
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
 

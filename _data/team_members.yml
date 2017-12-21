@@ -1,83 +1,58 @@
-- name: Milan P Allan
-  photo: Milan.jpg
-  info: Assistant Professor, started Jan 2015
-  email: milan.allan@gmail.com
+- name: Woojae Kim
+  photo: WKim.jpg
+  info: Director, Assistant Professor
+  email: woojae.kim@howard.edu
   number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (and Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  education1: <a href="/docs/KimW_CV_Dec2017.pdf">CV</a>
+  education2: <a href="https://scholar.google.com/citations?user=NTYc27IAAAAJ&hl=en">Google Scholar</a>
+  education3: <a href="https://www.researchgate.net/profile/Woojae_Kim2">Research Gate</a>
+  education4: PhD, The Ohio State University
+  education5: BA, Seoul National University
   
-- name: Doohee Cho
-  photo: Doohee2.jpg
-  info: Postdoc, started May 2017
-  email: dooheecho80@gmail.com
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
-  
-- name: Irene Battisti
-  photo: irene.jpg
-  info: PhD student, started Jan 2015
-  email: Battisti@Physics.LeidenUniv.nl
+- name: Warren Scott
+  photo: Warren.jpg
+  info: PhD student
+  email: wbscott1@gmail.com
+  description: Warren is a Social Psychology doctoral student minoring in Quantitative Psychology. He is curretly studying the impact of orthodontia on judgment using multi-level modeling.
   number_educ: 2
-  education1: Master Padova University
-  education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-  
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: PhD Student, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
-
-- name: Maarten Leeuwenhoek
-  photo: Maarten.png
-  info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
-  email: M.Leeuwenhoek@tudelft.nl
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
-  education2: 
-  education3: 
-  education4:  
-  
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, starting December 2017
-  email: --@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3: 
-  education4:  
-  
-- name: Gijsbert Verdoes
-  photo: verdoes.jpg
-  info: Fine mechanical engineer associated with the FMD, currently working in our group
-  email: verdoes@fmd.physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse instrumentmakers School
-  education2: 
-  education3: 
-  education4:  
-  
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: Fine mechanical engineer associated with the FMD, currently working in our group
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+  education1: MA, Seton Hall University
+  education2: BS, Notre Dame University
  
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+- name: Ricco Hill
+  photo: Ricco.jpg
+  info: PhD student
+  email: ricco.j.hill@gmail.com
+  description: Ricco is a Personality Psychology doctoral student with a minor concentration in Quantitative Psychology. His research interests revolve around studying emotion and emotional regulation. He seeks to utilize both qualitative and quantitative ideologies and methods towards building more comprehensive means of understanding emotion.
+  number_educ: 1
+  education1: BS, Howard University
+  
+- name: Emi Williams
+  photo: Emi.jpg
+  info: Undergraduate student
+  email: emi.williams@bison.howard.edu
+  description: Emi is an undergraduate student at Howard University, majoring in Psychology and minoring in Swahili. Her foci within Psychology are statistics and socio-cultural dynamics (such as in regards to differences due to language, culture, and LGBTQ identity). She was brought up in Seattle, Washington, in the Japanese-American community. Her interests include writing poetry, participating in community dialogues about diversity and activism, as well as gaining exposure to other cultures and languages.
+  number_educ: 0
+  education1: 
+
+- name: Kandysee' Leonard
+  photo: Kandysee.jpg
+  info: Undergraduate student
+  email: kandyleonard@gmail.com
+  description: Kandysee' is majoring in Psychology and minoring in Human Development at Howard University. She aspires to build a mental health facility for the US Virgin Islands where she was brought up. She dreams of establishing a non-profit organization in the Virgin Islands for young girls that aid them in understanding the importance of education, knowing their worth, and fulfilling their potential. She has recently grown fond of research and hopes to obtain knowledge and skills required for behavioral science research.
+  number_educ: 0
+  education1: 
+  
+- name: Stacia King
+  photo: Stacia.jpg
+  info: Undergraduate student
+  email: staciam98@gmail.com
+  description: Stacia is double majoring in Psychology and Mathematics at Howard University. Her interests are in studying forensic and developmental psychology of the populations of African descent, women, and adolescents. She is also a member of Dr. Debra Robert's Developmental Psychology lab. Upon completion of her Bachelor of Science degrees at Howard, she aspires to pursue a PhD degree and academic career. 
   number_educ: 0
   education1:  
-  education2:  
-  education3: 
-  education4:  
+   
+- name: "This could be you!"
+  photo: newmember.jpg
+  info: Interested in joining the lab? Contact
+  email: woojae.kim@howard.edu
+  number_educ: 0
+  education1:   

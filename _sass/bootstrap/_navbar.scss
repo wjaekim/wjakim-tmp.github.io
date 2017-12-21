@@ -34,6 +34,16 @@
   @media (min-width: $grid-float-breakpoint) {
     float: left;
   }
+  
+  img {
+  float: left;
+//  width: 47px;
+  height: 47px;
+  margin-top: 4px;
+  margin-bottom: -2px;
+  margin-right: 3px;
+}
+
 }
 
 
@@ -163,7 +173,7 @@
 .navbar-brand {
   float: left;
   padding: $navbar-padding-vertical $navbar-padding-horizontal;
-  font-size: $font-size-large;
+  font-size: $font-size-h3;
   line-height: $line-height-computed;
   height: $navbar-height;
 
@@ -231,6 +241,7 @@
 
 .navbar-nav {
   margin: ($navbar-padding-vertical / 2) (-$navbar-padding-horizontal);
+  font-size: $font-size-h3;
 
   > li > a {
     padding-top:    10px;

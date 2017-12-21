@@ -1,12 +1,12 @@
 ---
-title: "Dr. Kim Lab - Home"
+title: "Active Learning Lab of Quant Psych - Home"
 layout: homelay
-excerpt: "Active Learning Lab of Quantitative Psychology."
+excerpt: "Active Learning Lab of Quantitative Psychology"
 sitemap: false
 permalink: /
 ---
 
-We are a small, dynamic group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter. 
+Located in the [Department of Psychology](http://coas.howard.edu/psychology/) at [Howard University](https://www2.howard.edu/) and directed by [Dr. Woojae Kim](https://scholar.google.com/citations?user=NTYc27IAAAAJ&hl=en){:target="_blank"}, our research lab aims at learning the mind through quantitative modeling. Currerntly, the focus of our lab is twofold: (1) developing and empirically testing the utility of [active learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)) algorithms, a cutting-edge information query method, in [computational modeling of cognition](https://en.wikipedia.org/wiki/Computational_cognition); and (2) applying recent developments in quantitative methodology, mostly underutilized, in substative psychology research to provide convincing demonstrations. In a nutshell, we strive to learn the mind by actively querying it as well as to learn how to learn it by actively applying quantitative research methods. 
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -15,27 +15,18 @@ We are a small, dynamic group at the [Leiden Institute of Physics](http://www.ph
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/HADO_Diagram_Equation.svg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Figure_from_GuEtAl_2016_JOV.svg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group2015_red.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/FabSCAU.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tamagochi.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/3D_HiddenAll_v3.svg" alt="Slide 1" />
         </div>
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -48,25 +39,10 @@ We are a small, dynamic group at the [Leiden Institute of Physics](http://www.ph
   </a>
 </div>
 
+We believe that quantitative modeling contributes to the progress of psychological science by providing understandings of the underlying mechanisms of behavior on the level of precision that is difficult to obtain otherwise. This contribution can be made in a number of different ways. For further information about our lab's research program, see [Research](research).
 
-
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+<!-- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
  
- 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
-
 
 
 
