@@ -2,7 +2,6 @@
 title: "Active Learning Lab of Quant Psych - Publications"
 layout: gridlay
 excerpt: "Active Learning Lab of Quant Psych -- Publications."
-sitemap: false
 permalink: /publications/
 ---
 

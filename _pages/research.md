@@ -2,7 +2,6 @@
 title: "Active Learning Lab of Quant Psych - Research"
 layout: textlay
 excerpt: "Active Learning Lab of Quant Psych -- Research"
-sitemap: false
 permalink: /research/
 ---
 

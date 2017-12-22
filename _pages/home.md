@@ -2,7 +2,6 @@
 title: "Active Learning Lab of Quant Psych - Home"
 layout: homelay
 excerpt: "Active Learning Lab of Quantitative Psychology"
-sitemap: false
 permalink: /
 ---
 
