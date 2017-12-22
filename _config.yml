@@ -11,7 +11,7 @@ author: Woojae Kim
 email: woojae.kim@howard.edu
 description: Active Learning Lab of Quantitative Psychology where learning the mind and learning how to learn it occur actively
 # baseurl: 
-# url: 
+url: "https://wjaekim.github.io" 
 logo: /images/lab-logo.svg
 
 include:
