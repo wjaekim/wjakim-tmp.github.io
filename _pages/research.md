@@ -9,7 +9,7 @@ permalink: /research/
 
 An approach towards understanding the underlying mechanisms of behavior is quantitative (or computational) modeling of data from controlled experiments. It aims at gaining detailed insight into the processes behind certain tasks by theorizing and empirically testing functional relationships between task settings (e.g., stimuli) and response. The long-term goal of our research is to improve such model-based, scientific inference in psychology. This endeavor can be made in a number of directions reflected in our past and current research, which is outlined below.
 
-### Active Learning of Computational Models of Cognition
+### Active Learning of Computational Cognition
 
 The method of [active learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)) (also known as optimal exeprimental design) makes it possible for behavioral scientists to conduct experiments through as optimal interaction with subjects as possible towards a clear, quantified inference goal. At every opportunity during an experiment, an active learning algorithm can evaluate all past observations and propose an optimal setting to use subsequently (e.g., stimulus) that maximizes evidence in response for model inference. The full potential of active learning for cognitive modeling research has yet to be investigated. One of our studies extended the method so as to take advantage of the hierarchical structure of a phenomenon under study:
 
