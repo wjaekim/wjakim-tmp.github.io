@@ -6,6 +6,8 @@ sitemap: false
 permalink: /aboutwebsite.html
 ---
 
+<!--
+
 # Make your own Jekyll website for your academic research group
 
 This website is powered by [Jekyll](https://jekyllrb.com) and uses some [Bootstrap](http://www.getbootstrap.com) and  [Bootswatch](http://www.bootswatch.com). We tried to make it simple yet adaptable, so that it is easy for you to re-use it for your purpose. 
@@ -39,4 +41,6 @@ As said, [Jekyll](https://jekyllrb.com) takes all the markdown and data files, a
 Comments welcome.
 
 Code released under the MIT License.
+
+-->
 

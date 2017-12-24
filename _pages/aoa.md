@@ -1,10 +1,12 @@
 ---
-title: "Allan Lab - AOA"
+title: "AOA - Active Learning Lab of Qauntitative Psychology"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
 permalink: /aoa.html
 ---
+
+<!--
 
 # AOA calendar
 
@@ -68,3 +70,5 @@ The group indicated below is responsible for choosing a speaker/paper and sendin
 7-Dec-16	Aarts
 
 21-Dec-16	Oosterkamp
+
+-->
