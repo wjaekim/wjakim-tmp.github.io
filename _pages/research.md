@@ -15,7 +15,7 @@ The method of [active learning](https://en.wikipedia.org/wiki/Active_learning_(m
 
 [Kim, W., Pitt, M. A., Lu, Z.-L., Steyvers, M., & Myung, J. I. (2014). A hierarchical adaptive approach to optimal experimental design. *Neural Computation, 26*(11), 2465-2492](https://www.mitpressjournals.org/doi/abs/10.1162/NECO_a_00654).
 
-![]({{ site.url }}{{ site.baseurl }}/images/HADO_Diagram_Verbal.svg){: style="width: 490px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/HADO_Diagram_Verbal.svg){: style="max-width: 490px; float: right; border: 10px"}
 
 This work stems from the observation that, in many problems of scientific modeling in behavioral and neural sciences, it is sensible to assume that the studied phenomenon has hierarchical data-generating structure: Part of it is invariant across a range of conditions (e.g., a certain parametric model), yet part of it varies across individual settings (e.g., a range of parameter values for different individuals). Establishing such higher-level, invariant structure in detail is often a major scientific goal that is yet highly elusive, especially in behavioral experiments, due to the difficulty in obtaining informative data. The paper introduces a general, theoretically justified framework for applying Bayesian adaptive estimation to hierarchical models so that experimental design choices may be optimized for the goal of best inferring either higher-level (e.g., which model is most plausible?) or lower-level (e.g., which parameter values best describe certain individuals?) structure, or both at the same time. The proposed approach has been validated empirically in the context of vision testing in subsequent research ([Gu et al., 2016](http://jov.arvojournals.org/article.aspx?articleid=2516884)). 
 
@@ -35,7 +35,7 @@ When first introduced, [neural network (or parallel distributed processing) mode
 
 [Kim, W., Pitt, M. A., & Myung, I. J. (2013). How do PDP models learn quasiregularity? *Psychological Review, 120*(4), 903-916](http://psycnet.apa.org/record/2013-31538-001)
 
-![]({{ site.url }}{{ site.baseurl }}/images/3D_HiddenAll_v3_cropped.svg){: style="width: 470px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/3D_HiddenAll_v3_cropped.svg){: style="max-width: 470px; float: right; border: 10px"}
 
 addressed the long standing question: How can a PDP network, apparently a single system, learn conflicting kinds of input-output relationships (e.g., read regular and exception pronunciations of English spellings) while at the same time generalize well (e.g., learn and apply regularity to read nonwords that the network has not encountered during training)? The study unveiled an elusive structure that multi-layer PDP models forms into their internal representation in order to learn quasiregularity. These findings can assist PDP modelers in understanding the causes and consequences of modeling details, as well as in further investigating their suitability as scientific models. Part of the findings have been tested in an experimental study ([Armstrong, Dumay, Kim, & Pitt, 2017](http://psycnet.apa.org/record/2017-03298-005)).
 
