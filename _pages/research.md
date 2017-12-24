@@ -1,7 +1,7 @@
 ---
-title: "Active Learning Lab of Quant Psych - Research"
+title: "Research - Active Learning Lab of Quantitative Psychology"
 layout: textlay
-excerpt: "Active Learning Lab of Quant Psych -- Research"
+excerpt: "The long-term goal of our research is to improve model-based, scientific inference in psychology."
 permalink: /research/
 ---
 

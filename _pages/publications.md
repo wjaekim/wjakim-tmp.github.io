@@ -1,7 +1,7 @@
 ---
-title: "Active Learning Lab of Quant Psych - Publications"
+title: "Publications - Active Learning Lab of Quantitative Psychology"
 layout: gridlay
-excerpt: "Active Learning Lab of Quant Psych -- Publications."
+excerpt: "Publications by Active Learning Lab of Quantitative Psychology"
 permalink: /publications/
 ---
 

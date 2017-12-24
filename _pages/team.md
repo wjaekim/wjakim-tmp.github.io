@@ -1,7 +1,7 @@
 ---
-title: "Active Learning Lab of Quant Psych - Team"
+title: "Team - Active Learning Lab of Quantitative Psychology"
 layout: gridlay
-excerpt: "Active Learning Lab of Quant Psych: Team members"
+excerpt: "Members of Active Learning Lab of Quantitative Psychology"
 permalink: /team/
 ---
 
