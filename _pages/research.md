@@ -7,7 +7,7 @@ permalink: /research/
 
 # Research
 
-An approach towards understanding the underlying mechanisms of behavior is quantitative (or computational) modeling of data from controlled experiments. It aims at gaining detailed insight into the processes behind certain tasks by theorizing and empirically testing functional relationships between task settings (e.g., stimuli) and response. The long-term goal of our research is to improve such model-based, scientific inference in psychology. Reflected in our past and current research, this endeavor can be made in a number of directions, as outlined below.
+An approach towards understanding the underlying mechanisms of behavior is quantitative (or computational) modeling of data from controlled experiments. It aims at gaining detailed insight into the processes behind certain tasks by theorizing and empirically testing functional relationships between task settings (e.g., stimuli) and response. The long-term goal of our research is to improve such model-based, scientific inference in psychology. Reflected in our current and past research, this endeavor can be made in a number of directions, as outlined below.
 
 ### Active Learning of Computational Cognition
 
