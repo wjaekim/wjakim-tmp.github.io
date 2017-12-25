@@ -38,7 +38,7 @@ Located in the [Department of Psychology](http://coas.howard.edu/psychology/) at
   </a>
 </div>
 
-We believe that quantitative modeling contributes to the progress of psychological science by providing understandings of the underlying mechanisms of behavior on the level of precision that is difficult to obtain otherwise. This contribution can be made in a number of different ways. For further information about our lab's research program, see [Research](research).
+We believe that quantitative modeling contributes to the progress of psychological science by providing understandings of the underlying mechanisms of behavior on the level of detail that is difficult to obtain otherwise. This contribution can be made in a number of different ways. For further information about our lab's research program, see [Research](research).
 
 <!-- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
  
