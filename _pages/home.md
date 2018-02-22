@@ -1,7 +1,7 @@
 ---
-title: "Active Learning Lab of Quantitative Psychology"
+title: "Quantitative Psychology Active Learning Lab"
 layout: homelay
-excerpt: "Active Learning Lab of Quantitative Psychology where learning the mind and learning how to learn it occur actively."
+excerpt: "Quantitative Psychology Active Learning Lab where learning the mind and learning how to learn it occur actively."
 permalink: /
 ---
 
