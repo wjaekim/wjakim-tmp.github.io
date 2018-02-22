@@ -1,5 +1,5 @@
 ---
-title: "AOA - Active Learning Lab of Qauntitative Psychology"
+title: "AOA - Qauntitative Psychology Active Learning Lab"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
