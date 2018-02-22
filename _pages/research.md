@@ -1,5 +1,5 @@
 ---
-title: "Research - Active Learning Lab of Quantitative Psychology"
+title: "Research - Quantitative Psychology Active Learning Lab"
 layout: textlay
 excerpt: "The long-term goal of our research is to improve model-based, scientific inference in psychology."
 permalink: /research/
