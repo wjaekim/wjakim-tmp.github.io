@@ -1,7 +1,7 @@
 ---
-title: "Pictures - Active Learning Lab of Quantitative Psychology"
+title: "Pictures - Quantitative Psychology Active Learning Lab"
 layout: piclay
-excerpt: "Pictures - Active Learning Lab of Quantitative Psychology"
+excerpt: "Pictures - Quantitative Psychology Active Learning Lab"
 sitemap: false
 permalink: /pictures/
 ---
