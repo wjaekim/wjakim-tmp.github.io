@@ -1,5 +1,5 @@
 ---
-title: "Vacancies - Active Learning Lab of Quantitative Psychology"
+title: "Vacancies - Quantitative Psychology Active Learning Lab"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
