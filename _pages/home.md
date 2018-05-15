@@ -5,7 +5,7 @@ excerpt: "Quantitative Psychology Active Learning Lab where learning the mind an
 permalink: /
 ---
 
-Located in the [Department of Psychology](http://coas.howard.edu/psychology/) at [Howard University](https://www2.howard.edu/) and directed by [Dr. Woojae Kim](team), our research lab aims at learning the mind through quantitative modeling. Currerntly, the focus of our lab is twofold: (1) developing and empirically testing the utility of [active learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)) algorithms, a cutting-edge information query method, in [computational modeling of cognition](https://en.wikipedia.org/wiki/Computational_cognition); and (2) applying recent developments in quantitative methodology, mostly underutilized, in substative psychology research to provide convincing demonstrations. In a nutshell, we strive to learn the mind by actively querying it as well as to learn how to learn it by actively applying quantitative research methods. 
+Located in the [Department of Psychology](http://coas.howard.edu/psychology/) at [Howard University](https://www2.howard.edu/) and directed by [Dr. Woojae Kim](team), our research lab aims at learning the mind through quantitative modeling. Currently, the focus of our lab is twofold: (1) developing and empirically testing the utility of [active learning](https://en.wikipedia.org/wiki/Active_learning_(machine_learning)) algorithms, a cutting-edge information query method, in [computational modeling of cognition](https://en.wikipedia.org/wiki/Computational_cognition); and (2) applying recent developments in quantitative methodology, mostly underutilized, in substative psychology research to provide convincing demonstrations. In a nutshell, we strive to learn the mind by actively querying it as well as to learn how to learn it by actively applying quantitative research methods. 
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -42,8 +42,3 @@ We believe that quantitative modeling contributes to the progress of psychologic
 
 <!-- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
  
-
-
-
-
-
