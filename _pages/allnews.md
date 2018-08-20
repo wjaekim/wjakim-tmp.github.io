@@ -1,9 +1,8 @@
 ---
-title: "Home"
-layout: textlay
-excerpt: "Allan Lab at Leiden University."
-sitemap: false
-permalink: /allnews.html
+title: "News - Quantitative Psychology Active Learning Lab"
+layout: gridlay
+excerpt: "News in Quantitative Psychology Active Learning Lab"
+permalink: /allnews/
 ---
 
 # News
