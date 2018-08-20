@@ -8,6 +8,6 @@ permalink: /allnews/
 # News
 
 {% for article in site.data.news %}
-{{ article.date }}
-### {{ article.headline }}
+<p>{{ article.date }} <br>
+### {{ article.headline }} </p>
 {% endfor %}
