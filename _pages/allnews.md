@@ -4,6 +4,7 @@ layout: gridlay
 excerpt: "News in Quantitative Psychology Active Learning Lab"
 permalink: /allnews/
 ---
+# News
 
 {% for article in site.data.news %}
 <p style="padding: 1em 1em 1em 0">{{ article.date }} <br>
