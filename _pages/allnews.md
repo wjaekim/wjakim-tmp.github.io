@@ -1,6 +1,6 @@
 ---
 title: "News - Quantitative Psychology Active Learning Lab"
-layout: gridlay
+layout: textlay
 excerpt: "News in Quantitative Psychology Active Learning Lab"
 permalink: /allnews/
 ---
