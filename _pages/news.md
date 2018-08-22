@@ -2,7 +2,7 @@
 title: "News - Quantitative Psychology Active Learning Lab"
 layout: newslay
 excerpt: "News from Quantitative Psychology Active Learning Lab"
-permalink: /allnews/
+permalink: /news/
 ---
 # News
 
