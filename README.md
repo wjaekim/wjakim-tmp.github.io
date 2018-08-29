@@ -1,4 +1,4 @@
-# Dr. Kim Lab Website
+# Dr. Woojae Kim Lab Website
 
 Copyright Allan Lab. Code released under the MIT License.
 
