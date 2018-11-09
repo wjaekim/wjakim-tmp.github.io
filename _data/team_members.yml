@@ -8,7 +8,16 @@
   education3: <a href="https://www.researchgate.net/profile/Woojae_Kim2">Research Gate</a>
   education4: PhD, The Ohio State University
   education5: BA, Seoul National University
-  
+
+- name: Imer Arnautović
+  photo: Imer.jpg
+  info: Lab Manager, PhD candidate
+  email: imerarnautovic20@gmail.com
+  description: Imer is a Social Psychology doctoral candidate minoring in Quantitative Psychology. His research is at the intersection of mindfulness and cognitive dissonance. He plans to analyze his dissertation data using mixed model ANOVAs and conditional process analysis.
+  number_educ: 2
+  education1: MS, Howard University
+  education2: BA, University of California, Irvine
+
 - name: Warren Scott
   photo: Warren.jpg
   info: PhD student
