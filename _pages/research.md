@@ -27,7 +27,7 @@ be gained by optimizing beyond the next trial. A range of technical challenges h
 applies dynamic programming (DP), a technique applicable for such full-horizon, "global" optimization, to model-based perceptual
 threshold estimation, a domain that has been a major beneficiary of adaptive methods. The results provide insight into conditions that will benefit from optimizing beyond the next trial. These findings have general implications for scientific research adopting the method of active learning.
 
-The current research in our lab is focused on (1) applying the method to the estimation of [stop-signal task](http://www.cambridgecognition.com/cantab/cognitive-tests/executive-function/stop-signal-task-sst/) paremeters; and (2) developing an open-source, general-purpose software package for applying the method to a wide range of cognitive modeling experiments. 
+The current research in our lab is focused on (1) applying the method to the estimation of [stop-signal task](http://www.cambridgecognition.com/cantab/cognitive-tests/executive-function/stop-signal-task-sst/) parameters; and (2) developing an open-source, general-purpose software package for applying the method to a wide range of cognitive modeling experiments. 
 
 ### Understanding Computational Models
 
